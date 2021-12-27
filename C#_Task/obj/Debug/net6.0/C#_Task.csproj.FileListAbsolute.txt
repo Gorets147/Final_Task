@@ -1,0 +1,16 @@
+E:\Для пролграммирования\Final_Task\C#_Task\bin\Debug\net6.0\C#_Task.exe
+E:\Для пролграммирования\Final_Task\C#_Task\bin\Debug\net6.0\C#_Task.deps.json
+E:\Для пролграммирования\Final_Task\C#_Task\bin\Debug\net6.0\C#_Task.runtimeconfig.json
+E:\Для пролграммирования\Final_Task\C#_Task\bin\Debug\net6.0\C#_Task.dll
+E:\Для пролграммирования\Final_Task\C#_Task\bin\Debug\net6.0\ref\C#_Task.dll
+E:\Для пролграммирования\Final_Task\C#_Task\bin\Debug\net6.0\C#_Task.pdb
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.GlobalUsings.g.cs
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.csproj.AssemblyReference.cache
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.AssemblyInfoInputs.cache
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.AssemblyInfo.cs
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.csproj.CoreCompileInputs.cache
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.dll
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\ref\C#_Task.dll
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.pdb
+E:\Для пролграммирования\Final_Task\C#_Task\obj\Debug\net6.0\C#_Task.genruntimeconfig.cache
